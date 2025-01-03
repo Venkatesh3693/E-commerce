@@ -1,6 +1,6 @@
 import React from 'react'
 import { Categories,mockData } from '../assets/mockData'
-import HeroImage from '../assets/images/hero1.webp'
+import HeroImage from '../assets/images/hero.jpg'
 import InfoSection from '../components/InfoSection'
 import CategorySection from '../components/CategorySection'
 import { setProducts } from '../redux/productSlice'
