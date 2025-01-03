@@ -34,7 +34,7 @@ const Home = () => {
           </ul>
           </div>
           <div className='w-full md:w-9/12 mt-8 md:mt-0 h-96 relative'>
-            <img src="/hero.jpg" alt="" className='h-full w-full' />
+            <img src="/hero1.webp" alt="" className='h-full w-full' />
             <div className='absolute top-16 left-8'>
             <h2 className='text-3xl font-bold '>WELCOME TO E-COMMERCE</h2>
             <p className="text-xl mt-2.5 font-bold ">Shop for the best products at the best prices</p>
